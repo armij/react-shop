@@ -16,7 +16,7 @@ const StripeCheckoutButton = ({ price }) => {
       name='Be You Clothing Ltd.'
       billingAddress
       shippingAddress
-      image='https://svgshare.com/i/CUz.svg'
+      image='https://cdn.icon-icons.com/icons2/376/PNG/256/Vans_Checkerboard_Dirty_White_37330.png'
       description={`Your total is $${price}`}
       amount={priceForStripe}
       panelLabel='Pay now'
